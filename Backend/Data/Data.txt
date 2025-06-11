@@ -1,0 +1,2 @@
+base de datos configurada y se le envían consultas
+
