@@ -1,1 +1,1 @@
-Aquí se implementa las validaciones a los end point
+Aquí se implementa las validaciones a los end point si
