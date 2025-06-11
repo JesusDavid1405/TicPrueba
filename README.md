@@ -19,4 +19,5 @@ V.1.01
 
 Me caee mal Apple entonces no hay instalacion para mac
 
-
+### KANBAN
+> https://trello.com/invite/b/6849cf183ca4a0267dad51ad/ATTIb7586ab49241723e8dad66920e40293eE25EBF15/pruebatic
