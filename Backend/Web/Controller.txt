@@ -1,0 +1,2 @@
+Aquí se implementa las validaciones a los end point
+prácticamente esto es un endponit
